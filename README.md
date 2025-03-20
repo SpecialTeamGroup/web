@@ -1,2 +1,1 @@
-# web
-Landing page for STG
+Web para Special Team Group - Security Services
